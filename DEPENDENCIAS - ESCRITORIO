@@ -1,0 +1,47 @@
+#SO KALI-LINUX
+#instalar python 2.7
+
+#controlador del lector de huellas
+sudo apt-get install fprintd
+
+#ir a la carpeta huellaFunciones ubicada en la carpeta raiz del programa AplicaciónDeEscritorio_SistemaDeAsistenciasEscolaresUAZ
+sudo python setup.py install 
+
+#librerias adicionales para el funcionamiento del programa
+pip install cffi
+pip install cx_Oracle
+pip install tkdocviewer
+pip install reportlab
+pip install python_speech_features
+pip install scipy
+pip install scikit-learn==0.17
+pip install pydub
+sudo apt-get install python-numpy python-scipy python-matplotlib ipython  python-pandas python-sympy python-nose
+
+#https://oracle.github.io/odpi/doc/installation.html#linux
+#el archivo descargado unzip instantclient-basic-linux.x64-19.5.0.0.0dbru.zip se encuentra en la carpeta AplicaciónDeEscritorio_SistemaDeAsistenciasEscolaresUAZ
+#cree el siguiente directorio
+sudo mkdir -p /opt/oracle
+sudo chmod 777 /opt/oracle
+cd /opt/oracle
+
+#copie el archivo unzip instantclient-basic-linux.x64-19.5.0.0.0dbru.zip a la carpeta /opt/oracle
+unzip instantclient-basic-linux.x64-19.5.0.0.0dbru.zip
+
+#Instale el libaiopaquete del sistema operativo con sudo o como usuario root. Por ejemplo:
+sudo apt-get install libaio1
+#En algunas distribuciones de Linux, este paquete se llama en su libaio
+
+#Si no hay otro software de Oracle en la máquina que se vea afectado, agregue de forma permanente Instant Client a la ruta de enlace del tiempo de ejecución. Por ejemplo, con sudo o como #usuario root:
+sudo sh -c "echo /opt/oracle/instantclient_19_5 > /etc/ld.so.conf.d/oracle-instantclient.conf"
+sudo ldconfig
+
+#Alternativamente, establezca la variable de entorno LD_LIBRARY_PATH en el directorio apropiado para la versión de Instant Client. Por ejemplo:
+export LD_LIBRARY_PATH=/opt/oracle/instantclient_19_5:$LD_LIBRARY_PATH
+
+#COMENTARIOS
+#EJECUTAR Login.py
+#python Login.py
+#CONFIGURAR BASE DE DATOS EN LA VENTANA DE Login.py
+#clave de administrador para el registro de docentes (usuario/contraseña@ip_servidor/sid): escolar/escolar123_@148.217.200.133/orcl
+#una vez que se registre acceder con la clave (campo DO_CLAVE de docente)

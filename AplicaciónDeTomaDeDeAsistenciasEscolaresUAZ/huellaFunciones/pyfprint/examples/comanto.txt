@@ -1,0 +1,40 @@
+    1  ls
+    2  cd Downloads/
+    3  ls
+    4  unzip pyfprint-master.zip 
+    5  ls
+    6  cd pyfprint-master/
+    7  ls
+    8  python setup.py install
+    9  lw
+   10  ls
+   11  cd pyfprint/test/
+   12  sl
+   13  ls
+   14  python enroll.py 
+   15  cd
+   16  cd Do
+   17  cd Downloads/
+   18  ls
+   19  unzip pyfprint-cffi-master.zip 
+   20  ls
+   21  cd pyfprint-cffi-master/
+   22  ls
+   23  python setup.py install
+   24  ls
+   25  cd pyfprint/
+   26  ls
+   27  cd examples/
+   28  ls
+   29  python disk_enroll.py 
+   30  pip install cffi
+   31  python disk_enroll.py 
+   32  apt-get install build-essential libssl-dev libffi-dev python-dev
+   33  sudo apt-get update 
+   34  apt-get install build-essential libssl-dev libffi-dev python-dev
+   35  python disk_enroll.py 
+   36  sudo apt-get install build-essential python-dev git scons swig
+   37  python disk_enroll.py 
+   38  sudo apt-get install fprintd
+   39  python disk_enroll.py 
+   40  history > comanto.txt
