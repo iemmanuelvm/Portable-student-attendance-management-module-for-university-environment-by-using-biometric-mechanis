@@ -1,11 +1,50 @@
-# Sistema de registro de asistencias escolares
+# Chicken Disease
 
-#
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva1.PNG">
+</p>
 
-### Implementado en Java, Python y como base de datos Oracle database.
-### Registro de asistencia a través de huella dactilar y voz.
-### CRUD de los datos involucrados.
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva2.PNG">
+</p>
 
-#
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva3.PNG">
+</p>
 
-# Para más información sobre el sistema consulte el documento TesisEspecificaciones.pdf
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva4.PNG">
+</p>
+
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva5.PNG">
+</p>
+
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva6.PNG">
+</p>
+
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva7.PNG">
+</p>
+
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva8.PNG">
+</p>
+
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva9.PNG">
+</p>
+
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva10.PNG">
+</p>
+
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva11.PNG">
+</p>
+
+
+<p align="center">
+  <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva12.PNG">
+</p>
