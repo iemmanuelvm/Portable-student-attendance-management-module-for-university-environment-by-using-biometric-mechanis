@@ -1,4 +1,4 @@
-# Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanism
+# Portable student attendance management module for university environment by using biometric mechanisms
 
 <p align="center">
   <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva1.PNG">
