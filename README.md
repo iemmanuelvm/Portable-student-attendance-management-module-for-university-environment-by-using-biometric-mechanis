@@ -48,3 +48,5 @@
 <p align="center">
   <img  src="https://github.com/iemmanuelvm/Portable-student-attendance-management-module-for-university-environment-by-using-biometric-mechanis/blob/master/documentation/Diapositiva12.PNG">
 </p>
+
+https://debian.pkgs.org/10/debian-main-arm64/libfprint0_0.8.2-3_arm64.deb.html
